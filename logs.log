@@ -1,0 +1,30 @@
+10/19/2022 07:08:20 PM Running job Job(interval=5, unit=seconds, do=synchronize, args=(), kwargs={})
+10/19/2022 07:08:20 PM dirsync finished in 0.00 seconds.
+10/19/2022 07:08:20 PM 2 directories parsed, 0 files copied
+10/19/2022 07:08:20 PM 
+10/19/2022 07:08:25 PM Running job Job(interval=5, unit=seconds, do=synchronize, args=(), kwargs={})
+10/19/2022 07:08:25 PM dirsync finished in 0.00 seconds.
+10/19/2022 07:08:25 PM 2 directories parsed, 0 files copied
+10/19/2022 07:08:25 PM 2 files were purged.
+10/19/2022 07:08:25 PM 
+10/19/2022 07:08:30 PM Running job Job(interval=5, unit=seconds, do=synchronize, args=(), kwargs={})
+10/19/2022 07:08:30 PM dirsync finished in 0.00 seconds.
+10/19/2022 07:08:30 PM 2 directories parsed, 0 files copied
+10/19/2022 07:08:30 PM 1 directories were created.
+10/19/2022 07:08:30 PM 
+10/19/2022 07:08:35 PM Running job Job(interval=5, unit=seconds, do=synchronize, args=(), kwargs={})
+10/19/2022 07:08:35 PM dirsync finished in 0.0 seconds.
+10/19/2022 07:08:35 PM 2 directories parsed, 0 files copied
+10/19/2022 07:08:35 PM 
+10/19/2022 07:08:40 PM Running job Job(interval=5, unit=seconds, do=synchronize, args=(), kwargs={})
+10/19/2022 07:08:40 PM dirsync finished in 0.00 seconds.
+10/19/2022 07:08:40 PM 2 directories parsed, 1 files copied
+10/19/2022 07:08:40 PM 
+10/19/2022 07:08:45 PM Running job Job(interval=5, unit=seconds, do=synchronize, args=(), kwargs={})
+10/19/2022 07:08:45 PM dirsync finished in 0.00 seconds.
+10/19/2022 07:08:45 PM 2 directories parsed, 1 files copied
+10/19/2022 07:08:45 PM 
+10/19/2022 07:08:50 PM Running job Job(interval=5, unit=seconds, do=synchronize, args=(), kwargs={})
+10/19/2022 07:08:50 PM dirsync finished in 0.00 seconds.
+10/19/2022 07:08:50 PM 2 directories parsed, 0 files copied
+10/19/2022 07:08:50 PM 
